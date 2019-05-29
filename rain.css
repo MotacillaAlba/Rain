@@ -14,7 +14,7 @@
     --active-file-text-color: var(--text-color);
     --active-file-border-color: #E0E0E0;
 
-    --side-bar-bg-color: var(--text-color);
+    --side-bar-bg-color: var(--bg-color);
     --item-hover-bg-color: var(--primary-btn-border-color);
     --item-hover-text-color: var(--primary-btn-text-color);
 
